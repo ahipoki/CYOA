@@ -79,12 +79,12 @@ function chapterOneOne(){//Chapter one up to first choice
   alert("You had a look so ordinary that anyone could lose you in the crowd—But despite that, those who saw you out of the corner of their eyes would most certainly look at you like a strange object. It's something that is to be expected. At any rate, of all the people staring at you, not a single one had black hair nor wore a tracksuit.");
   alert("Their hair came in many colors like red and gold,from colors like brown all the way to green and blue. Furthermore, they were dressed in stuff like armor, a dancer's clothing, a pitched black robe and the like.");
   alert("Under the restrained wave of stares, you folded your arms and had no choice but to accept it.");
-  alert("'In other words, it's that,' you said while snapping your fingers, and pointing it to the people looking at you. '—a trans-world summon, or so it seems.'");
+  alert("'In other words, it's that,' you say while snapping your fingers, and pointing it to the people looking at you. '—a trans-world summon, or so it seems.'");
   alert("Rolling past in front of you came a carriage-like vehicle being pulled by a giant lizard-like creature.");
   alert("Natsuki Subaru was born on Earth, the third planet in the solar system, into an extremely normal middle-class family as a Japanese boy. If one were to talk about your roughly seventeen years of life in a simple fashion, a preamble would suffice, and any other elaboration would be along the lines of 'A third year public high school student that doesn't feel like going to school'.");
   alert("To enter a school or to find a job. When made to stand at the crossroads of life, people are forced to make a decision. Though if someone were to ask anyone, they would call it 'a part of life', you were a little better at running away from things you detested than other humans. In the end, the number of times you excused yourself from school slowly increased, and by the time you noticed, you became a son that kept skipping school and doing a splendid job of making your parents cry.");
   alert("And in the end, I was summoned from another world and am sure to be kicked out of high school..... I really don't get any of this.");
-  alert("Though you felt like you were in a poorly-made dream, even if you were to pinch your cheeks or bang your head against the wall, you wouldn't wake up. You sighed. Moving away from the main street where you were bathed in stares of curiosity, you sat down on the paved surface of a back alley, slightly away from the street.");
+  alert("Though you feel like you are in a poorly-made dream, even if you were to pinch your cheeks or bang your head against the wall, you wouldn't wake up. You sigh. Moving away from the main street where you were bathed in stares of curiosity, you sit down on the paved surface of a back alley, slightly away from the street.");
   alert("'So assuming that this is a fantasy world, this civilization would be that of the medieval era. From what can be seen, there aren't any machines and the way the surface was paved is not bad... My money obviously can't be used here.");
   alert("Regarding the do's and don'ts of communcation with the people here and the recognition of the value of materials, you, who realized you had been summoned to another world, swiftly tried to confirm it. Luckily, you could understand the words without a hitch and was able to confirm that trade was done with the exchange of gold, silver, and copper as currency, though you were given a look of disgust at the fruit stall you had first come into contact with.");
   alert("It was in circumstances like these, where you had the ability to quickly grasp the situation that you deeply felt blessed to be a youth in the current generation addicted to anime and games. One would not be exaggerating to describe a phenomenon like trans-world summons as that of the dreams of an adolescant male.");
@@ -219,6 +219,8 @@ function chapterOneFight(){
   alert("At the instant you were about to lose your consciousness, you saw the silver haired young girl turn around, red-faced.");
   alert("'I definitely, definitely won't save you or anything!'");
   alert("—The fantasy in another world where even an angry face looked extremely cute. With that final thought, this time, your consciousness fell into darkness.");
+  alert("The feeling of waking up feels just like my face emerging from the surface of the water you thought.");
+  alert("You open your eyes and slanted rays of sunlight burn them. Under such a glare, your face contorts as you rub your eyes
 }
 function chapterOneRun(){//Run route
   alert("You look over your shoulder to try and make a path to escape but all you see is a dead-end. You're forced to face your attackers.");
